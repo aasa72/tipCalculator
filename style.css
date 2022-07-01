@@ -1,0 +1,35 @@
+body {
+  box-sizing: border-box;
+  background: lightblue;
+  font-size: 30px;
+  
+  font-family: 'Poppins', sans-serif;
+}
+
+#container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 15px;
+  border-radius: 5px;
+  background: gray;
+}
+
+section {
+  padding: 20px;
+  margin:0 auto;
+}
+
+
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+input {
+  font-size: 30px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+}
+
